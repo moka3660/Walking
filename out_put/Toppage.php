@@ -7,5 +7,6 @@
 </head>
 <body>
   Hello!!
+  <img src="Lr-.jpg">
 </body>
 </html>

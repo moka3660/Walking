@@ -6,10 +6,6 @@
   <title>トップページ</title>
 </head>
 <body>
-  Hello!!
-  <br/>
-  <a href="page2.php">a</a>
-  <br>
-  <img src="Lr-.jpg">
+  ハイパーリンク
 </body>
 </html>

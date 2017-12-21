@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="content-type" content="text/html">
-  <title>トップページ</title>
+  <title>健康街づくり</title>
 </head>
 <body>
   Hello!!
